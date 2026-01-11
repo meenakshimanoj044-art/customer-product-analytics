@@ -6,13 +6,13 @@ This project focuses on analyzing customer/product data to derive actionable
 business insights and build predictive machine learning models.
 
 ## Project Status
-✔ Business understanding  
-✔ Data overview  
-✔ Data cleaning & preprocessing  
-✔ Product metrics  
-✔ Exploratory data analysis (EDA)  
-Machine learning modeling (LightGBM) – started  
- Dashboards & storytelling – planned  
+  Business understanding  
+  Data overview  
+  Data cleaning & preprocessing  
+  Product metrics  
+  Exploratory data analysis (EDA)  
+  Machine learning modeling (LightGBM) – started  
+  Dashboards & storytelling – planned  
 
 ## Tech Stack
 - Python
